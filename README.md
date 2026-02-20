@@ -25,8 +25,7 @@ This project was developed using Visual Studio (Windows).
 3. Run the program and watch your cellular population evolve!
 
 ## Preview (3x18)
-\`\`\`text
+```text
 .......#..#.......
 ..###..#..........
 .......#...##.....
-\`\`\`
